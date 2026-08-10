@@ -1,0 +1,20 @@
+[
+    {
+        "customer_name": "maha",
+        "username": "maha.chy1",
+        "appreciated_area": "quality",
+        "improvement": "delivery"
+    },
+    {
+        "customer_name": "zara",
+        "username": "zara31",
+        "appreciated_area": "design",
+        "improvement": "delivery"
+    },
+    {
+        "customer_name": "shahreen",
+        "username": "shah.reen",
+        "appreciated_area": "quality",
+        "improvement": "fast reply"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "customer_name": "shahreen",
+        "username": "shah.reen",
+        "product_name": "bag",
+        "order_date": "10-8-26",
+        "delivery_date": "20-8-26",
+        "customer_status": "Customer Status: New Customer"
+    },
+    {
+        "customer_name": "zara",
+        "username": "zara31",
+        "product_name": "flower",
+        "order_date": "9-8-26",
+        "delivery_date": "11-8-26",
+        "customer_status": "Customer Status: New Customer"
+    },
+    {
+        "customer_name": "maha",
+        "username": "maha.chy1",
+        "product_name": "bag",
+        "order_date": "5-8-26",
+        "delivery_date": "30-8-26",
+        "customer_status": "Customer Status: New Customer"
+    }
+]
