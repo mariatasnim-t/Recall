@@ -1,6 +1,6 @@
 # RECALL
 
-### Keeping Every Commitment Within Reach
+### "Keeping Every Commitment Within Reach".
 
 Recall is a Python-based desktop application designed to bring customer orders, delivery tracking, discounts, feedback, and business insights into one organized workspace.
 
