@@ -1,6 +1,5 @@
-# RECALL
-
-### "Keeping Every Commitment Within Reach".
+# R E C A L L
+### "_Keeping Every Commitment Within Reach_".
 
 Recall is a Python-based desktop application designed to bring customer orders, delivery tracking, discounts, feedback, and business insights into one organized workspace.
 
@@ -8,33 +7,33 @@ It turns everyday order records into a simple story of what was ordered, what ne
 
 ## What Recall Does
 
-### ➜Order Entry
+### ▪ Order Entry
 
 The starting point of every order.
 
 Customer name, username, product, order date, and delivery date are entered and stored. Recall also identifies whether the customer is new or returning, checks available discounts, and calculates the delivery status.
 
-### ➜Delivery Tracking
+### ▪ Delivery Tracking
 
 Recall calculates the remaining days until each delivery and displays the current delivery progress.
 
-### ➜Attention Indicator
+### ▪ Attention Indicator
 
 Orders with 0–3 days remaining are automatically highlighted so important deliveries are easy to notice.
 
-### ➜Discount System
+### ▪ Discount System
 
 Discounts can be enabled from Settings and assigned to new customers, returning customers, or both.
 
-### ➜Customer Recognition
+### ▪ Customer Recognition
 
 Recall compares the entered username with previous orders to identify returning customers.
 
-### ➜Feedback
+### ▪ Feedback
 
 Customer feedback is recorded and later used to identify the most appreciated areas and common improvement suggestions.
 
-### ➜Insights
+### ▪ Insights
 
 Stored order and feedback data are transformed into a simple overview of customer activity, popular products, and monthly order patterns.
 
@@ -65,7 +64,7 @@ Stored order and feedback data are transformed into a simple overview of custome
                           Business Overview
 ```
 
-## ➜ How Order Entry Works
+## ▪ How Order Entry Works
 
 ```text
 User enters order
@@ -90,7 +89,7 @@ Order saved
 orders.json
 ```
 
-## ➜ How Due Alerts Work
+## ▪ How Due Alerts Work
 
 ```text
 Delivery Date
@@ -112,7 +111,7 @@ Calculate Remaining Days
 Attention Indicator Updated
 ```
 
-## ➜ How Feedback Works
+## ▪ How Feedback Works
 
 ```text
 Customer enters feedback
@@ -134,7 +133,7 @@ Insights
           +---- Common Improvement
 ```
 
-## ➜ How Insights Work
+## ▪ How Insights Work
 
 ```text
 orders.json
@@ -175,9 +174,7 @@ Recall
 ```
 
 ▪ orders.json stores order and customer information.
-
 ▪ feedback.json stores customer feedback.
-
 ▪ settings.json stores discount preferences and application settings.
 
 ## Technologies
