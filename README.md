@@ -161,3 +161,25 @@ The goal is not just to store records.
         ┌──────────┐   ┌──────────┐   ┌──────────┐
         │  ALERTS  │   │ FEEDBACK │   │ INSIGHTS │
         └──────────┘   └──────────┘   └──────────┘
+
+✦ THE DATA
+
+Recall uses local JSON files instead of a database.
+
+The data is stored inside a dedicated data folder:
+
+data/
+├── orders.json
+├── feedback.json
+└── settings.json
+orders.json
+
+Stores customer and order records.
+
+feedback.json
+
+Stores customer feedback and improvement suggestions.
+
+settings.json
+
+Stores application settings, including discount preferences.
