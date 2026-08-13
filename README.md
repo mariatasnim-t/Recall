@@ -204,11 +204,7 @@ Recall
 
 ## Design
 
-Recall was intentionally designed not to feel like a typical business dashboard.
-
-▪ Instead of a sharp, complex, data-heavy interface, the goal was to create something cozy, calm, and personal — almost like opening a warm little workspace where everything is already in its place.
-The mood board focused on warmth, simplicity, paper, coffee, and earthy tones. Soft cream, coffee brown, khaki, and muted beige create a comfortable visual atmosphere while keeping the information easy to read.
-Every element was kept clean and purposeful so that managing orders, deliveries, feedback, and insights feels organized without feeling overwhelming.
+▪ Recall was designed to feel cozy, calm, and personal rather than like a complex business dashboard. The mood board focused on warm coffee tones, soft paper shades, earthy colors, and simplicity, creating a workspace that feels organized without feeling overwhelming.
 
 ## Project Purpose
 
@@ -217,7 +213,6 @@ Recall was created from a simple observation: running a small business page can 
 ▪ Orders come through messages, delivery dates have to be remembered, customers need to be recognized, discounts need to be managed, and feedback can easily get lost.
 Over time, this can become messy, overwhelming, and easy to forget.
 Recall was designed to bring these scattered responsibilities into one calm and organized space.
-The vision was not to build another complicated business system, but to create a simple digital workspace that remembers the details, brings attention to what matters, and helps the seller understand their customers.
 
 **Recall remembers the commitments, so the seller doesn't have to remember everything alone.**
 
