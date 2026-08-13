@@ -183,12 +183,3 @@ Stores customer feedback and improvement suggestions.
 settings.json
 
 Stores application settings, including discount preferences.
-
-TECHNOLOGY STACK
-Technology	Purpose
-Python	Core application logic
-Tkinter	Desktop graphical interface
-JSON	Local data storage
-datetime	Date and delivery calculations
-os	File and directory management
-try-except	Error handling
